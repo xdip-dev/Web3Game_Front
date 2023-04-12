@@ -9,6 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Test hosting webpage
+          <p>
+            Adding another line to see if it's update alone
+          </p>
         </p>
         <a
           className="App-link"
